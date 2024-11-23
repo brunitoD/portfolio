@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "commonjs",
+        "lib": ["dom", "es5"],
+        "outDir": "./",
+        "strict": true
+    },
+    "include": ["*.ts", "parteFetching.mts", "Fetching.ts"],
+    "exclude": ["node_modules"]
+  }
+  
